@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyCZHSDay1KQub3vxUBCCK-OmexuZJYB9WM"; // Replace with your actual API key
+const apiKey = "Enter your API"; // Replace with your actual API key
 const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent";
 
 function sendMessage() {
